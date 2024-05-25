@@ -8,14 +8,18 @@
 git clone 
 ```
 
-Install the Vercel CLI:
+## Install the Vercel CLI:
 
 ```bash
 npm i -g vercel
 ```
 
-Then run the app at the root of the repository:
+## Then run the app at the root of the repository:
 
 ```bash
 vercel dev
 ```
+# 使用
+
+接收一个 query `ua=xxx` 参数 `https://uaparser.vercel.app/api/query?ua=xxx`
+

@@ -1,6 +1,5 @@
 {
   "name": "ua-parser",
-  "type": "module",
   "repository": "",
   "license": "MIT",
   "private": true,
