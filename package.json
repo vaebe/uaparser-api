@@ -1,6 +1,6 @@
 {
   "name": "ua-parser",
-  "repository": "",
+  "repository": "https://github.com/vaebe/uaparser-api",
   "license": "MIT",
   "private": true,
   "devDependencies": {

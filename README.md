@@ -1,11 +1,12 @@
-# ua-parser.js 在线调用版
+# ua-parser
+ua-parser.js 在线调用版, [ua-parser.js](https://github.com/faisalman/ua-parser-js) 仓库地址
+ 
+使用 [vercel](https://vercel.com) 进行部署
 
-[ua-parser.js](https://github.com/faisalman/ua-parser-js) 仓库地址
-
-# 使用 [vercel](https://vercel.com) 部署
+# 本地调试
 
 ```bash
-git clone 
+git clone  https://github.com/vaebe/uaparser-api
 ```
 
 ## Install the Vercel CLI:
